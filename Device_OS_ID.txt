@@ -1,0 +1,17 @@
+# List
+
+NDLT6
+NDLT7
+NDLT7W
+NDLT7WsU
+NEPd2U
+
+# Notes
+
+After the index within the category, letters may be appended to distinguish operating systems on the device. For virtual machines and subsystems, OS Identifiers may be chained.
+
+OS ID       | Description
+----------- | -----------
+W           | Windows
+Ws          | Windows Subsystem for Linux
+U           | Ubuntu
