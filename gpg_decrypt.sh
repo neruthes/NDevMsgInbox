@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cat "inbox/`hostname`" | gpg -d
+cat "inbox/`hostname`.gpg" | gpg -d
