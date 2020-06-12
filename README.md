@@ -6,6 +6,11 @@ GitHub repo [neruthes/NDevMgr](https://github.com/neruthes/NDevMgr).
 
 ## Messaging
 
+### Dependencies
+
+- Rust
+- https:/github.com/DmensionDev/ntge
+
 ### Encrypt
 
 ```
