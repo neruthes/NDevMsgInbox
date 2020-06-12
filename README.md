@@ -9,7 +9,7 @@ GitHub repo [neruthes/NDevMgr](https://github.com/neruthes/NDevMgr).
 ### Dependencies
 
 - Rust
-- https:/github.com/DmensionDev/ntge
+- https://github.com/DmensionDev/ntge
 
 ### Encrypt
 
