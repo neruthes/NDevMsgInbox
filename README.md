@@ -14,7 +14,7 @@ GitHub repo [neruthes/NDevMgr](https://github.com/neruthes/NDevMgr).
 ### Encrypt
 
 ```
-sh encrypt.sh Device_OS_ID "Actual message"
+sh encrypt.sh Device_OS_ID
 ```
 
 ### Decrypt
